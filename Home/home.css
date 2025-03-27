@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box; 
+}
+
+
+.botao{
+
+    background-color: black;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 200px;
+        
+}
+
+p {
+    font-size: 18px;
+
+}
+
