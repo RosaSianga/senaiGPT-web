@@ -44,9 +44,13 @@
 .principal {
 
     width: 80vw;
-    height: 100vh;
-
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
 }
+
 
 .superior {
     width: 100%;
@@ -59,9 +63,27 @@
 
 }
 
-.imagem {
+.pesquisa {
+
+    width: 80vw;
+    height: 20vh;
     display: flex;
-    justify-content: center;   
+    justify-content: center;
     align-items: center;
-    padding-top: 50px;
+}
+
+.input {
+
+
+    padding: 18px;
+    border: none;
+ background-color: #F7F9FB;
+    width: 50%;
+    margin-bottom: 16px;
+}
+
+.linha {
+    width: 2px;
+    height: 100vw;
+    background-color: black;
 }
