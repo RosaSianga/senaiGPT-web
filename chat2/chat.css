@@ -31,7 +31,7 @@
 
 
 .chat {
-    width: 20vw;
+    width: 12vw;
     height: 100vh;
     padding-top: 1vw;
     padding-left: 1vw;
@@ -39,16 +39,20 @@
     flex-direction: column;
     justify-content: space-between;
 
+
 }
 
 .principal {
 
-    width: 80vw;
+    width: 88vw;
     height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 10%;
+    flex-direction: column;
+    justify-content: space-between;
+ 
 }
 
 
@@ -65,8 +69,8 @@
 
 .pesquisa {
 
-    width: 80vw;
-    height: 20vh;
+    width: 88%;
+    height: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,16 +78,27 @@
 
 .input {
 
-
     padding: 18px;
     border: none;
- background-color: #F7F9FB;
+    background-color: #F7F9FB;
     width: 50%;
     margin-bottom: 16px;
 }
 
 .linha {
-    width: 2px;
-    height: 100vw;
+    width: 1px;
+    height: 100vh;
     background-color: black;
+}
+
+
+
+.tabela {
+
+    width: 80%;
+
+}
+
+p {
+    background-color: white;
 }
