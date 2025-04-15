@@ -18,7 +18,7 @@ Rodar o projeto localmente é muito simples. Basta seguir os passos abaixo:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/arielmn22/senai-gpt-web.git
+git clone https://github.com/RosaSianga/senaiGPT-web.git
 cd senai-gpt-web
 ```
 
@@ -46,7 +46,7 @@ start index.html
 ## 📦 Deploy
 
 Este projeto está hospedado no **GitHub Pages**, e pode ser acessado através do seguinte link:  
-👉 [senai-gpt - Chat](https://rosasianga.github.io/senaiGPT-web/login/)
+👉 [senai-gpt - Login](https://rosasianga.github.io/senaiGPT-web/login/)
 
 ---
 
