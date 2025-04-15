@@ -65,29 +65,38 @@
 }
 
 .pesquisa {
-    width: 85%;
-    height: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 46px;
     margin-top: auto;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: #F7F9FB;
+    border-radius: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    
 }
 
 .input {
-    padding: 18px;
+    margin-top: 0vh;
+    width: 760px;
+    height: 46px;
+    border-radius: 16px;
     border: none;
-    background-color: #F7F9FB;
-    width: 50%;
-    margin-bottom: 16px;
-    border-radius: 15px;
+    color: black;
+    background-color: transparent;
+    padding: 15px;
 }
+
+
 
 .linha {
     width: 1px;
     height: 100vh;
     background-color: black;
 }
-
 
 
 .tabela {
